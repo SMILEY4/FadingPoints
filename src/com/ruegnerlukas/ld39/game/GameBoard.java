@@ -61,7 +61,7 @@ public class GameBoard {
 	public void update(Graphics2D g) {
 		Input input = FadingPoints.input;
 		
-		editor(input, g);
+//		editor(input, g);
 		
 		
 		int gridWidth = grid.getCellSize() * grid.getWidth();
